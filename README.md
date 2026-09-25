@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./rafat.png" 
+       alt="MD Fazle Rafat GitHub Banner" 
+       width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm MD Fozle Rafat</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
