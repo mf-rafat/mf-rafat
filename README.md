@@ -4,7 +4,7 @@
        width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm MD Fozle Rafat</h1>
+<h1 align="center">Hi 👋, I'm MD Fazle Rafat</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 - 📫 How to reach me **md.fozle.rafat@gmail.com**
